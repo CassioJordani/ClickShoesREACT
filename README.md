@@ -4,6 +4,9 @@ React Router V6 - Creating Shop in React JS
 ## Install Dependencies
 
 npm i
+## talvez necessário (Cássio J.)
+npm i bootstrap
+npm i react-router-dom
 
 ## Run App
 
